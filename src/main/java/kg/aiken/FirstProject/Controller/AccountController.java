@@ -97,7 +97,7 @@ public class AccountController {
     }
 
     @Operation(
-            summary = "Получить историю операций",
+            summary = "Получить историю операций.",
             description = "Возвращает полный список операций по указанному счету."
     )
     @GetMapping("/history/{id}")
