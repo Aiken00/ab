@@ -1,4 +1,4 @@
-# Banking System REST API.
+# Banking System REST API
 
 Тестовый проект банковской системы, разработанный на Spring Boot.
 
