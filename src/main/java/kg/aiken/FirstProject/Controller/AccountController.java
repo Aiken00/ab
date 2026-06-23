@@ -70,7 +70,7 @@ public class AccountController {
     }
 
     @Operation(
-            summary = "Списать средства со счета",
+            summary = "Списать средства со счета.",
             description = "Уменьшает баланс счета на указанную сумму. Баланс счета не может стать отрицательным."
     )
     @PostMapping("/withdraw/{id}")
